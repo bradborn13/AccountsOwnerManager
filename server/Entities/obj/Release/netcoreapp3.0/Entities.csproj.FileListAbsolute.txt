@@ -1,0 +1,8 @@
+C:\Source\AccountOwner\server\Entities\bin\Release\netcoreapp3.0\Entities.deps.json
+C:\Source\AccountOwner\server\Entities\bin\Release\netcoreapp3.0\Entities.dll
+C:\Source\AccountOwner\server\Entities\bin\Release\netcoreapp3.0\Entities.pdb
+C:\Source\AccountOwner\server\Entities\obj\Release\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Source\AccountOwner\server\Entities\obj\Release\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Source\AccountOwner\server\Entities\obj\Release\netcoreapp3.0\Entities.dll
+C:\Source\AccountOwner\server\Entities\obj\Release\netcoreapp3.0\Entities.pdb
+C:\Source\AccountOwner\server\Entities\obj\Release\netcoreapp3.0\Entities.csprojAssemblyReference.cache

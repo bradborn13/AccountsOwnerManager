@@ -1,0 +1,10 @@
+2019-11-20 15:08:35.7678 INFO Here is info message from the controller
+2019-11-20 15:08:35.8709 WARN Here is warn message from the controller
+2019-11-20 15:08:35.8978 DEBUG Here is debug message from the controller
+2019-11-20 15:08:35.9238 ERROR Here is error message from the controller
+2019-11-20 15:54:15.5667 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-20 15:59:19.9702 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-20 15:59:28.2039 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-20 16:04:10.7370 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-20 16:06:44.4848 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-20 16:09:10.6783 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.

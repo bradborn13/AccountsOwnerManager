@@ -1,0 +1,24 @@
+2019-11-22 00:54:17.5309 INFO Returned owner with the id : 1 
+2019-11-22 00:54:26.4467 INFO Returned all owners from database
+2019-11-22 01:17:36.2293 INFO Returned owner with the id : 1 
+2019-11-22 01:17:48.3774 ERROR Something went wrong inside GetOwnerWithAccounts action : Unknown column 'a.AccountId' in 'field list'
+2019-11-22 01:26:32.3393 ERROR Owner with id : 4 was not found in db.
+2019-11-22 15:26:56.0831 ERROR Something wnet wrong inisde CreateOwner action : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForCreateDTO -> Owner
+Entities.DTO.OwnerForCreateDTO -> Entities.Models.Owner
+2019-11-22 15:41:04.8600 INFO Returned all owners from database
+2019-11-22 16:35:18.2336 ERROR Owner with id: 0, hasn't been found in db.
+2019-11-22 16:35:55.5987 ERROR Owner with id: 0, hasn't been found in db.
+2019-11-22 16:42:41.4744 ERROR Owner with id: 0, hasn't been found in db.
+2019-11-22 16:43:09.8259 ERROR Something wnet wrong inisde UpdateOwner action : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+OwnerForUpdateDTO -> Owner
+Entities.DTO.OwnerForUpdateDTO -> Entities.Models.Owner
+2019-11-22 16:47:09.2948 INFO Returned owner with the id : 2 
+2019-11-22 16:47:39.4014 INFO Returned owner with the id : 2 
+2019-11-22 17:14:27.5317 ERROR Owner with id: 0, hasn't been found in db.
+2019-11-22 17:16:54.9102 ERROR Owner with id: 0, hasn't been found in db.
+2019-11-22 17:18:14.9517 ERROR Cannot delete owner with id: 1. It has related accounts. Delete those accounts first

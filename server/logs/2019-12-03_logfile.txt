@@ -1,0 +1,7 @@
+2019-12-03 16:50:59.3413 INFO Returned owner with the id : 1 
+2019-12-03 16:50:59.3413 INFO Returned owner with the id : 1 
+2019-12-03 16:50:59.3413 INFO Returned owner with the id : 1 
+2019-12-03 16:51:04.8675 INFO Returned owner with the id : 1 
+2019-12-03 16:51:09.9329 INFO Returned owner with the id : 2 
+2019-12-03 17:33:59.1140 INFO Returned all owners from database
+2019-12-03 17:34:01.8259 INFO Returned all owners from database

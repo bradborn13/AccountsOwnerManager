@@ -1,0 +1,30 @@
+2019-11-19 15:21:21.1637 INFO Here is info message from the controller
+2019-11-19 15:21:21.2298 WARN Here is warn message from the controller
+2019-11-19 15:21:21.2420 DEBUG Here is debug message from the controller
+2019-11-19 15:21:21.2526 ERROR Here is error message from the controller
+2019-11-19 17:10:42.7388 INFO Here is info message from the controller
+2019-11-19 17:10:42.8324 WARN Here is warn message from the controller
+2019-11-19 17:10:42.8506 DEBUG Here is debug message from the controller
+2019-11-19 17:10:42.8737 ERROR Here is error message from the controller
+2019-11-19 17:10:54.6958 INFO Here is info message from the controller
+2019-11-19 17:10:54.7111 WARN Here is warn message from the controller
+2019-11-19 17:10:54.7290 DEBUG Here is debug message from the controller
+2019-11-19 17:10:54.7499 ERROR Here is error message from the controller
+2019-11-19 17:11:00.9079 INFO Here is info message from the controller
+2019-11-19 17:11:00.9266 WARN Here is warn message from the controller
+2019-11-19 17:11:00.9468 DEBUG Here is debug message from the controller
+2019-11-19 17:11:00.9755 ERROR Here is error message from the controller
+2019-11-19 17:11:23.6358 INFO Here is info message from the controller
+2019-11-19 17:11:23.6573 WARN Here is warn message from the controller
+2019-11-19 17:11:23.6573 DEBUG Here is debug message from the controller
+2019-11-19 17:11:23.6815 ERROR Here is error message from the controller
+2019-11-19 17:50:40.1248 INFO Here is info message from the controller
+2019-11-19 17:50:40.1906 WARN Here is warn message from the controller
+2019-11-19 17:50:40.1906 DEBUG Here is debug message from the controller
+2019-11-19 17:50:40.2107 ERROR Here is error message from the controller
+2019-11-19 17:50:46.6107 INFO Here is info message from the controller
+2019-11-19 17:50:46.6259 WARN Here is warn message from the controller
+2019-11-19 17:50:46.6423 DEBUG Here is debug message from the controller
+2019-11-19 17:50:46.6575 ERROR Here is error message from the controller
+2019-11-19 18:16:18.1849 INFO Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[Entities.Models.Account]
+2019-11-19 18:16:20.3255 INFO Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[Entities.Models.Owner]

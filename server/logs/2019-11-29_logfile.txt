@@ -1,0 +1,88 @@
+2019-11-29 00:00:11.7661 INFO Returned all owners from database
+2019-11-29 00:00:17.8243 INFO Returned all owners from database
+2019-11-29 00:05:00.2944 INFO Returned all owners from database
+2019-11-29 00:23:24.6026 INFO Returned all owners from database
+2019-11-29 00:24:05.9798 INFO Returned all owners from database
+2019-11-29 00:24:16.4372 INFO Returned all owners from database
+2019-11-29 00:26:45.3963 INFO Returned all owners from database
+2019-11-29 00:26:53.5526 INFO Returned all owners from database
+2019-11-29 00:27:00.6931 INFO Returned all owners from database
+2019-11-29 00:27:06.3308 INFO Returned all owners from database
+2019-11-29 00:27:18.7525 INFO Returned all owners from database
+2019-11-29 00:28:09.2777 INFO Returned all owners from database
+2019-11-29 00:28:18.4796 INFO Returned all owners from database
+2019-11-29 00:29:21.3737 INFO Returned all owners from database
+2019-11-29 00:29:33.7613 INFO Returned all owners from database
+2019-11-29 00:29:49.9416 INFO Returned all owners from database
+2019-11-29 00:29:55.8524 INFO Returned all owners from database
+2019-11-29 00:30:09.5655 INFO Returned all owners from database
+2019-11-29 00:30:19.1943 INFO Returned all owners from database
+2019-11-29 00:30:43.0861 INFO Returned all owners from database
+2019-11-29 00:31:26.1064 INFO Returned all owners from database
+2019-11-29 00:31:32.4627 INFO Returned all owners from database
+2019-11-29 00:31:54.0602 INFO Returned all owners from database
+2019-11-29 00:32:05.4636 INFO Returned all owners from database
+2019-11-29 00:32:17.6171 INFO Returned all owners from database
+2019-11-29 00:32:28.6432 INFO Returned all owners from database
+2019-11-29 00:32:37.4793 INFO Returned all owners from database
+2019-11-29 00:32:53.1495 INFO Returned all owners from database
+2019-11-29 00:33:01.9680 INFO Returned all owners from database
+2019-11-29 00:33:08.7566 INFO Returned all owners from database
+2019-11-29 00:40:29.3389 INFO Returned all owners from database
+2019-11-29 01:58:38.3603 INFO Returned all owners from database
+2019-11-29 01:58:47.7702 INFO Returned all owners from database
+2019-11-29 01:58:51.0402 INFO Returned all owners from database
+2019-11-29 01:58:54.5866 INFO Returned all owners from database
+2019-11-29 02:40:38.9971 INFO Returned all owners from database
+2019-11-29 02:59:35.9570 INFO Returned all owners from database
+2019-11-29 02:59:43.3700 INFO Returned all owners from database
+2019-11-29 02:59:47.8890 INFO Returned all owners from database
+2019-11-29 03:00:28.4391 INFO Returned all owners from database
+2019-11-29 03:00:34.1454 INFO Returned all owners from database
+2019-11-29 03:02:03.4941 INFO Returned all owners from database
+2019-11-29 03:04:01.4402 INFO Returned all owners from database
+2019-11-29 03:04:04.1386 INFO Returned all owners from database
+2019-11-29 03:04:08.9109 INFO Returned all owners from database
+2019-11-29 03:17:23.0215 INFO Returned all owners from database
+2019-11-29 03:17:26.8018 INFO Returned all owners from database
+2019-11-29 03:17:29.4484 INFO Returned all owners from database
+2019-11-29 03:21:13.5286 INFO Returned owner with the id : 1 
+2019-11-29 03:21:24.7058 INFO Returned owner with the id : 3 
+2019-11-29 03:22:30.0367 INFO Returned owner with the id : 3 
+2019-11-29 03:22:56.8593 INFO Returned owner with the id : 3 
+2019-11-29 03:22:59.2470 INFO Returned all owners from database
+2019-11-29 03:23:01.1000 INFO Returned owner with the id : 3 
+2019-11-29 03:23:05.5389 INFO Returned all owners from database
+2019-11-29 03:23:24.0538 INFO Returned owner with the id : 3 
+2019-11-29 03:24:57.1690 INFO Returned owner with the id : 3 
+2019-11-29 03:26:22.8441 INFO Returned owner with the id : 3 
+2019-11-29 03:27:08.3537 INFO Returned owner with the id : 3 
+2019-11-29 03:27:38.5517 INFO Returned owner with the id : 3 
+2019-11-29 03:28:16.5436 INFO Returned owner with the id : 3 
+2019-11-29 03:28:44.7270 INFO Returned owner with the id : 3 
+2019-11-29 03:28:49.1372 INFO Returned owner with the id : 3 
+2019-11-29 03:28:51.7406 INFO Returned owner with the id : 3 
+2019-11-29 03:29:34.5560 INFO Returned owner with the id : 3 
+2019-11-29 03:29:45.8364 INFO Returned owner with the id : 6 
+2019-11-29 03:29:50.1987 INFO Returned all owners from database
+2019-11-29 03:30:01.4269 INFO Returned owner with the id : 1 
+2019-11-29 03:30:36.5323 INFO Returned owner with the id : 1 
+2019-11-29 03:31:20.3699 INFO Returned all owners from database
+2019-11-29 03:31:23.7524 INFO Returned owner with the id : 11 
+2019-11-29 03:31:25.9569 INFO Returned all owners from database
+2019-11-29 03:31:27.3827 INFO Returned owner with the id : 10 
+2019-11-29 03:31:29.0045 INFO Returned all owners from database
+2019-11-29 03:31:30.5030 INFO Returned owner with the id : 1 
+2019-11-29 03:31:32.4161 INFO Returned all owners from database
+2019-11-29 03:31:35.3554 INFO Returned owner with the id : 8 
+2019-11-29 03:31:37.2052 INFO Returned all owners from database
+2019-11-29 03:31:39.3607 INFO Returned owner with the id : 11 
+2019-11-29 03:31:43.5068 INFO Returned all owners from database
+2019-11-29 03:44:35.8110 INFO Returned all owners from database
+2019-11-29 03:57:13.2113 INFO Returned owner with the id : 10 
+2019-11-29 03:57:18.6804 INFO Returned all owners from database
+2019-11-29 03:57:21.3417 INFO Returned owner with the id : 9 
+2019-11-29 03:58:12.2668 INFO Returned owner with the id : 9 
+2019-11-29 03:58:41.5971 INFO Returned all owners from database
+2019-11-29 03:58:47.4975 INFO Returned owner with the id : 9 
+2019-11-29 03:59:16.7081 INFO Returned all owners from database

@@ -1,0 +1,13 @@
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Repository.deps.json
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Repository.dll
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Repository.pdb
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Contracts.dll
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Entities.dll
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Contracts.pdb
+C:\Source\AccountOwner\server\Repository\bin\Release\netcoreapp3.0\Entities.pdb
+C:\Source\AccountOwner\server\Repository\obj\Release\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+C:\Source\AccountOwner\server\Repository\obj\Release\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+C:\Source\AccountOwner\server\Repository\obj\Release\netcoreapp3.0\Repository.AssemblyInfo.cs
+C:\Source\AccountOwner\server\Repository\obj\Release\netcoreapp3.0\Repository.csproj.CopyComplete
+C:\Source\AccountOwner\server\Repository\obj\Release\netcoreapp3.0\Repository.dll
+C:\Source\AccountOwner\server\Repository\obj\Release\netcoreapp3.0\Repository.pdb

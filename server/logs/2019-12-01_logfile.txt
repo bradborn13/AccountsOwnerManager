@@ -1,0 +1,2 @@
+2019-12-01 15:46:17.0322 INFO Returned all owners from database
+2019-12-01 23:32:59.9458 INFO Returned all owners from database

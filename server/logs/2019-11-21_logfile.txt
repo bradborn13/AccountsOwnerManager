@@ -1,0 +1,23 @@
+2019-11-21 13:06:24.2304 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-21 13:11:19.8406 ERROR Something went wrong inside GetAllOwners action :Unable to connect to any of the specified MySQL hosts.
+2019-11-21 15:52:08.1376 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 15:56:27.3908 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 15:58:17.7434 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 15:59:07.3598 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 16:38:49.8065 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 16:42:40.1606 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 16:43:13.2600 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowne'
+2019-11-21 16:44:23.8992 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowne'
+2019-11-21 16:45:58.7432 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowne'
+2019-11-21 16:46:40.1757 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 16:54:23.2516 ERROR Something went wrong inside GetAllOwners action :Unknown database 'accountowner'
+2019-11-21 17:17:14.3854 ERROR Something went wrong inside GetAllOwners action :Table 'accountowner.owner' doesn't exist
+2019-11-21 17:47:38.8705 ERROR Something went wrong inside GetAllOwners action :The value could not be converted to a GUID: 2
+2019-11-21 18:10:27.8433 ERROR Something went wrong inside GetAllOwners action :The relationship from 'Account.Owner' to 'Owner.Accounts' with foreign key properties {'OwnerId' : Guid} cannot target the primary key {'OwnerId' : int} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-11-21 18:10:30.9100 ERROR Something went wrong inside GetAllOwners action :The relationship from 'Account.Owner' to 'Owner.Accounts' with foreign key properties {'OwnerId' : Guid} cannot target the primary key {'OwnerId' : int} because it is not compatible. Configure a principal key or a set of compatible foreign key properties for this relationship.
+2019-11-21 18:12:28.6466 INFO Returned all owners from database
+2019-11-21 18:15:15.0857 INFO Returned all owners from database
+2019-11-21 18:15:21.0713 INFO Returned all owners from database
+2019-11-21 18:15:33.6356 INFO Returned all owners from database
+2019-11-21 18:16:34.2801 INFO Returned all owners from database
+2019-11-21 23:54:24.4215 INFO Returned all owners from database

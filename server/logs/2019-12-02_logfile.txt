@@ -1,0 +1,2 @@
+2019-12-02 00:06:08.6895 ERROR Cannot delete owner with id: 1. It has related accounts. Delete those accounts first
+2019-12-02 00:06:10.2321 INFO Returned owner with the id : 1 

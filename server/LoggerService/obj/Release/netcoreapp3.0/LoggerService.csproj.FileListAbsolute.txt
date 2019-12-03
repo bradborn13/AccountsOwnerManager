@@ -1,0 +1,13 @@
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\LoggerService.deps.json
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\LoggerService.dll
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\LoggerService.pdb
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\Contracts.dll
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\Entities.dll
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\Contracts.pdb
+C:\Source\AccountOwner\server\LoggerService\bin\Release\netcoreapp3.0\Entities.pdb
+C:\Source\AccountOwner\server\LoggerService\obj\Release\netcoreapp3.0\LoggerService.csprojAssemblyReference.cache
+C:\Source\AccountOwner\server\LoggerService\obj\Release\netcoreapp3.0\LoggerService.AssemblyInfoInputs.cache
+C:\Source\AccountOwner\server\LoggerService\obj\Release\netcoreapp3.0\LoggerService.AssemblyInfo.cs
+C:\Source\AccountOwner\server\LoggerService\obj\Release\netcoreapp3.0\LoggerService.csproj.CopyComplete
+C:\Source\AccountOwner\server\LoggerService\obj\Release\netcoreapp3.0\LoggerService.dll
+C:\Source\AccountOwner\server\LoggerService\obj\Release\netcoreapp3.0\LoggerService.pdb
